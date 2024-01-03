@@ -71,3 +71,7 @@ In this package, right now we have the following extension methods:
 
 If you feel that there can be any other extension methods, feel free to create a PR for the same and I would love to add
 it to the package 💙
+
+**Meet our amazing contributors**
+
+[![](https://contrib.rocks/image?repo=AbhishekDoshi26/super_extensions)](https://github.com/AbhishekDoshi26/super_extensions/graphs/contributors)
