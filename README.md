@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/AbhishekDoshi26/super_extensions.svg?style=plastic&label=Stars)](https://github.com/AbhishekDoshi26/super_extensions) 
 
 </p>
-
+ 
 ## Introduction
 
 We all love shortcode that does the work. So dart has provided a great feature called Extension Methods which you can
